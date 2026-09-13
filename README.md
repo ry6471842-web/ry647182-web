@@ -42,5 +42,7 @@ I'm currently learning programming, web development, and problem solving.
 ~🌐 Connect With Me
 
 [GitHub](https://github.com/ry6471842-web)
+Email= ry6471842@gmail.com
+
 
 ✦ i love fat cats✦
