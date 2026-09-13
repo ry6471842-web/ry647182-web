@@ -1,33 +1,30 @@
 <p align="center">
   <img src="download (2).jpg" width="100%">
-  
+
 </p>
 
-👋 Hi, I'm Ronnie
+<h1>👋 Hi, I'm Ronnie</h1>
 💻 B.Tech CSE Student | Learning by Building
 
 I'm currently learning programming, web development, and problem solving.
-                          -----------------------------------------------------------------------------------------------------------------------
- ~About Me
-
+                  
+ <h2>~About Me</h2>
 - 🎓 First-year B.Tech CSE student
 - 💻 Currently learning C, Python & JavaScript
 - 🌐 Exploring HTML & CSS
 - 🧠 Learning by building projects
 - 🎨 I like combining coding with creative design
+- nd i love fat cats 🙀 
 
-~🛠️ Tech Stack
-
+<h3>~🛠️ Tech Stack</h3>
   ~Languages
     C • Python • JavaScript
   ~Web
     HTML • CSS
   ~Tools
     Git • GitHub • VS Code
-
-                                        ---------------------------------------------------------------------------------------
-
-~📂 Projects
+                          
+<h3>~📂 Projects</h3>
  upcoming 
    .Amazon clone
    .pixel small game
@@ -38,6 +35,7 @@ I'm currently learning programming, web development, and problem solving.
 - Data Structures & Algorithms
 - Web Development
 - Problem Solving
+- did i say i love fat cats?
 
 ---
 
